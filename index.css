@@ -1,0 +1,122 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    
+}
+header{
+    background-color: black;
+  
+    width: 100%;
+   
+}
+nav h1{
+    color: #fff;
+    
+    
+  
+}
+header nav{
+    display: flex;
+    justify-content: right;
+  
+}
+nav ul li{
+padding: 16px 24px;
+display: inline-block;
+}
+nav ul li a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.one{
+    background-color: rgb(39, 35, 35);
+    width: 100%;
+    height: 100vh;
+}
+.mkuu{
+    display: flex;
+    margin-top: 80px;
+    margin-bottom: 10px;
+}
+.yam{
+    color: #fff;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.tam img{
+    height: 420px;
+    padding-top: 20px;
+}
+.yam h1{
+    font-size: 40px;
+}
+.yam button{
+    background-color: rgb(202, 43, 96);
+    padding: 12px 30px;
+    border-radius: 30px;
+    border: none;
+    color: #fff;
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+/*SECTION 2*/
+.two{
+    background-color: rgb(39, 35, 35); 
+    text-align: center;
+    color: #fff;
+   
+}
+.yego button{
+    background-color: rgb(36, 181, 230);
+    color: #fff;
+    border: none;
+    font-size: 20px;
+    padding: 10px 20px;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px
+
+}
+/*SECTION 3*/
+.three{
+    background-image: url('./walls.jpg');
+    height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+/*SECTION 4*/
+.baba{
+    padding: 50px;
+}
+.baba p{
+    padding: 20px;
+}
+.ewe h1{
+    text-align: center;
+    padding: 20px;
+}
+/*SECTION 5*/
+.five{
+    background-color: black;
+    height: 30vh;
+}
+footer{
+   
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+}
+ul li{
+    display: flex;
+    display: inline-block;
+    padding: 40px;
+}
+.tok{
+    color: gray;
+}
+
